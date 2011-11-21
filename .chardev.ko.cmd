@@ -1,0 +1,1 @@
+cmd_/home/floriade/mymodule/chardev.ko := ld -r -m elf_x86_64 -T /home/floriade/linux-2.6/scripts/module-common.lds --build-id  -o /home/floriade/mymodule/chardev.ko /home/floriade/mymodule/chardev.o /home/floriade/mymodule/chardev.mod.o

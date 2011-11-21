@@ -1,0 +1,5 @@
+kernel//home/floriade/mymodule/hello-1.ko
+kernel//home/floriade/mymodule/hello-2.ko
+kernel//home/floriade/mymodule/hello-4.ko
+kernel//home/floriade/mymodule/hello-5.ko
+kernel//home/floriade/mymodule/chardev.ko

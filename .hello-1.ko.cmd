@@ -1,0 +1,1 @@
+cmd_/home/floriade/mymodule/hello-1.ko := ld -r -m elf_x86_64 -T /home/floriade/linux-2.6/scripts/module-common.lds --build-id  -o /home/floriade/mymodule/hello-1.ko /home/floriade/mymodule/hello-1.o /home/floriade/mymodule/hello-1.mod.o
